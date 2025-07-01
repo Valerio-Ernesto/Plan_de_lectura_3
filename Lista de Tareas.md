@@ -8,4 +8,6 @@
 - [ ] Investigar sobre los autómatas celulares
 - [ ] Investigar sobre arquitecturas de Von Neumann
 - [ ] Investigar la obra de Noam Chomsky
+- [ ] Investigar sobre la teoría de la información
 - [ ] Buscar cómo se aplica la geometría proyectiva a los gráficos de computadora
+- [ ] Planificar el proyecto **Visualización de autómatas**
