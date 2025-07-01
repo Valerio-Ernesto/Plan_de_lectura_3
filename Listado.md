@@ -44,6 +44,7 @@
 _(Lenguajes formales, autómatas, cálculo lambda y cibernética)_ 
 
 1. _¿?_ Noam Chomsky
+2. _The Theory of Algorithms_ by A. A. Markov & N. M. Nagorny
 
 **Filosofía**
 
