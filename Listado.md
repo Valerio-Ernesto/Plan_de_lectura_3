@@ -16,7 +16,8 @@
 2.  _Geometry Euclid and Beyond_ by Robin Hartshorne
 3.  _Projective Geometry_ by Coxeter
 4.  _Affine and Projective Geometry_ by Bennet
-5.  _Projective Geometry_ by Samuel Pierre
+5.  _Analytic Projective Geometry_ by John Bamberg & Tim Penttila
+6.  _Projective Geometry_ by Samuel Pierre
 
 **Lógica matemática**
 
